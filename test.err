@@ -1,0 +1,1 @@
+Warning[2103] xlcd/test.c 12 : default startup code expects main function declared as 'void main (void)'
